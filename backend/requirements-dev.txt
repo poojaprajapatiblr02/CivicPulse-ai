@@ -1,0 +1,5 @@
+-r requirements.txt
+httpx>=0.28,<1.0
+pytest>=8.3,<10.0
+pytest-cov>=6.0,<8.0
+shapely>=2.1,<3.0

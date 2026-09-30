@@ -1,0 +1,42 @@
+[
+  {
+    "name": "location_name",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "district",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "latitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "longitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "population",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "households",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "vulnerability_index",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "data_source",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]

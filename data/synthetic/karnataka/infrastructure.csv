@@ -1,0 +1,21 @@
+infrastructure_id,location_name,district,category,asset_type,asset_count,available_capacity,required_capacity,capacity_unit,coverage_percent,average_distance_km,service_hours_per_day,road_condition_score,data_source
+SYN-INF-0001,Melukote,Mandya,Healthcare,Primary Health Centre,3,14451.28,22952,people served,62.96,6.56,,,SYNTHETIC / DEMO DATA
+SYN-INF-0002,Melukote,Mandya,Education,School,7,2694.51,4591,student seats,58.69,7.2,,,SYNTHETIC / DEMO DATA
+SYN-INF-0003,Melukote,Mandya,Roads,Road Repair,5,20.65,28.69,road kilometres,71.98,,,71.98,SYNTHETIC / DEMO DATA
+SYN-INF-0004,Melukote,Mandya,Water,Water Supply,6,2885.62,5101,household connections,56.57,,15.31,,SYNTHETIC / DEMO DATA
+SYN-INF-0005,Melukote,Mandya,Electricity,Power Supply,7,3193.03,5101,household connections,62.6,,16.52,,SYNTHETIC / DEMO DATA
+SYN-INF-0006,Halebidu,Hassan,Healthcare,Primary Health Centre,3,13271.76,20390,people served,65.09,6.24,,,SYNTHETIC / DEMO DATA
+SYN-INF-0007,Halebidu,Hassan,Education,School,7,2708.58,4078,student seats,66.42,6.04,,,SYNTHETIC / DEMO DATA
+SYN-INF-0008,Halebidu,Hassan,Roads,Road Repair,3,12.47,25.49,road kilometres,48.94,,,48.94,SYNTHETIC / DEMO DATA
+SYN-INF-0009,Halebidu,Hassan,Water,Water Supply,7,3158.15,4532,household connections,69.69,,17.94,,SYNTHETIC / DEMO DATA
+SYN-INF-0010,Halebidu,Hassan,Electricity,Power Supply,5,2420.35,4532,household connections,53.41,,14.68,,SYNTHETIC / DEMO DATA
+SYN-INF-0011,Hampi,Vijayanagara,Healthcare,Primary Health Centre,2,5115.7,13029,people served,39.26,10.11,,,SYNTHETIC / DEMO DATA
+SYN-INF-0012,Hampi,Vijayanagara,Education,School,3,949.37,2606,student seats,36.43,10.54,,,SYNTHETIC / DEMO DATA
+SYN-INF-0013,Hampi,Vijayanagara,Roads,Road Repair,2,6.89,16.29,road kilometres,42.28,,,42.28,SYNTHETIC / DEMO DATA
+SYN-INF-0014,Hampi,Vijayanagara,Water,Water Supply,4,1626.49,2896,household connections,56.16,,15.23,,SYNTHETIC / DEMO DATA
+SYN-INF-0015,Hampi,Vijayanagara,Electricity,Power Supply,3,1079.92,2896,household connections,37.29,,11.46,,SYNTHETIC / DEMO DATA
+SYN-INF-0016,Banavasi,Uttara Kannada,Healthcare,Primary Health Centre,2,7509.14,13850,people served,54.22,7.87,,,SYNTHETIC / DEMO DATA
+SYN-INF-0017,Banavasi,Uttara Kannada,Education,School,5,1704.23,2770,student seats,61.52,6.77,,,SYNTHETIC / DEMO DATA
+SYN-INF-0018,Banavasi,Uttara Kannada,Roads,Road Repair,3,10.36,17.31,road kilometres,59.83,,,59.83,SYNTHETIC / DEMO DATA
+SYN-INF-0019,Banavasi,Uttara Kannada,Water,Water Supply,4,1883.18,3078,household connections,61.18,,16.24,,SYNTHETIC / DEMO DATA
+SYN-INF-0020,Banavasi,Uttara Kannada,Electricity,Power Supply,4,1963.39,3078,household connections,63.79,,16.76,,SYNTHETIC / DEMO DATA

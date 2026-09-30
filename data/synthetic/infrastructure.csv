@@ -1,0 +1,251 @@
+infrastructure_id,location_name,district,category,asset_type,asset_count,available_capacity,required_capacity,capacity_unit,coverage_percent,average_distance_km,service_hours_per_day,road_condition_score,data_source
+SYN-INF-0001,Demo Village 01,Demo District 01,Healthcare,Primary Health Centre,3,14451.28,22952,people served,62.96,6.56,,,SYNTHETIC / DEMO DATA
+SYN-INF-0002,Demo Village 01,Demo District 01,Education,School,7,2694.51,4591,student seats,58.69,7.2,,,SYNTHETIC / DEMO DATA
+SYN-INF-0003,Demo Village 01,Demo District 01,Roads,Road Repair,5,20.65,28.69,road kilometres,71.98,,,71.98,SYNTHETIC / DEMO DATA
+SYN-INF-0004,Demo Village 01,Demo District 01,Water,Water Supply,6,2885.62,5101,household connections,56.57,,15.31,,SYNTHETIC / DEMO DATA
+SYN-INF-0005,Demo Village 01,Demo District 01,Electricity,Power Supply,7,3193.03,5101,household connections,62.6,,16.52,,SYNTHETIC / DEMO DATA
+SYN-INF-0006,Demo Village 02,Demo District 01,Healthcare,Primary Health Centre,3,13271.76,20390,people served,65.09,6.24,,,SYNTHETIC / DEMO DATA
+SYN-INF-0007,Demo Village 02,Demo District 01,Education,School,7,2708.58,4078,student seats,66.42,6.04,,,SYNTHETIC / DEMO DATA
+SYN-INF-0008,Demo Village 02,Demo District 01,Roads,Road Repair,3,12.47,25.49,road kilometres,48.94,,,48.94,SYNTHETIC / DEMO DATA
+SYN-INF-0009,Demo Village 02,Demo District 01,Water,Water Supply,7,3158.15,4532,household connections,69.69,,17.94,,SYNTHETIC / DEMO DATA
+SYN-INF-0010,Demo Village 02,Demo District 01,Electricity,Power Supply,5,2420.35,4532,household connections,53.41,,14.68,,SYNTHETIC / DEMO DATA
+SYN-INF-0011,Demo Village 03,Demo District 01,Healthcare,Primary Health Centre,2,5115.7,13029,people served,39.26,10.11,,,SYNTHETIC / DEMO DATA
+SYN-INF-0012,Demo Village 03,Demo District 01,Education,School,3,949.37,2606,student seats,36.43,10.54,,,SYNTHETIC / DEMO DATA
+SYN-INF-0013,Demo Village 03,Demo District 01,Roads,Road Repair,2,6.89,16.29,road kilometres,42.28,,,42.28,SYNTHETIC / DEMO DATA
+SYN-INF-0014,Demo Village 03,Demo District 01,Water,Water Supply,4,1626.49,2896,household connections,56.16,,15.23,,SYNTHETIC / DEMO DATA
+SYN-INF-0015,Demo Village 03,Demo District 01,Electricity,Power Supply,3,1079.92,2896,household connections,37.29,,11.46,,SYNTHETIC / DEMO DATA
+SYN-INF-0016,Demo Village 04,Demo District 01,Healthcare,Primary Health Centre,2,7509.14,13850,people served,54.22,7.87,,,SYNTHETIC / DEMO DATA
+SYN-INF-0017,Demo Village 04,Demo District 01,Education,School,5,1704.23,2770,student seats,61.52,6.77,,,SYNTHETIC / DEMO DATA
+SYN-INF-0018,Demo Village 04,Demo District 01,Roads,Road Repair,3,10.36,17.31,road kilometres,59.83,,,59.83,SYNTHETIC / DEMO DATA
+SYN-INF-0019,Demo Village 04,Demo District 01,Water,Water Supply,4,1883.18,3078,household connections,61.18,,16.24,,SYNTHETIC / DEMO DATA
+SYN-INF-0020,Demo Village 04,Demo District 01,Electricity,Power Supply,4,1963.39,3078,household connections,63.79,,16.76,,SYNTHETIC / DEMO DATA
+SYN-INF-0021,Demo Village 05,Demo District 01,Healthcare,Primary Health Centre,2,6484.12,8865,people served,73.14,5.03,,,SYNTHETIC / DEMO DATA
+SYN-INF-0022,Demo Village 05,Demo District 01,Education,School,4,1270.99,1773,student seats,71.69,5.25,,,SYNTHETIC / DEMO DATA
+SYN-INF-0023,Demo Village 05,Demo District 01,Roads,Road Repair,2,6.65,11.08,road kilometres,59.98,,,59.98,SYNTHETIC / DEMO DATA
+SYN-INF-0024,Demo Village 05,Demo District 01,Water,Water Supply,3,1196.48,1970,household connections,60.73,,16.15,,SYNTHETIC / DEMO DATA
+SYN-INF-0025,Demo Village 05,Demo District 01,Electricity,Power Supply,3,1443.64,1970,household connections,73.28,,18.66,,SYNTHETIC / DEMO DATA
+SYN-INF-0026,Demo Village 06,Demo District 02,Healthcare,Primary Health Centre,2,8215.92,12626,people served,65.07,6.24,,,SYNTHETIC / DEMO DATA
+SYN-INF-0027,Demo Village 06,Demo District 02,Education,School,5,1709.18,2526,student seats,67.66,5.85,,,SYNTHETIC / DEMO DATA
+SYN-INF-0028,Demo Village 06,Demo District 02,Roads,Road Repair,3,10.18,15.78,road kilometres,64.53,,,64.53,SYNTHETIC / DEMO DATA
+SYN-INF-0029,Demo Village 06,Demo District 02,Water,Water Supply,5,2370.82,2806,household connections,84.49,,20.9,,SYNTHETIC / DEMO DATA
+SYN-INF-0030,Demo Village 06,Demo District 02,Electricity,Power Supply,5,2184.84,2806,household connections,77.86,,19.57,,SYNTHETIC / DEMO DATA
+SYN-INF-0031,Demo Village 07,Demo District 02,Healthcare,Primary Health Centre,2,6288.36,23064,people served,27.26,11.91,,,SYNTHETIC / DEMO DATA
+SYN-INF-0032,Demo Village 07,Demo District 02,Education,School,4,1280.03,4613,student seats,27.75,11.84,,,SYNTHETIC / DEMO DATA
+SYN-INF-0033,Demo Village 07,Demo District 02,Roads,Road Repair,3,13.49,28.83,road kilometres,46.8,,,46.8,SYNTHETIC / DEMO DATA
+SYN-INF-0034,Demo Village 07,Demo District 02,Water,Water Supply,3,1355.6,5126,household connections,26.45,,9.29,,SYNTHETIC / DEMO DATA
+SYN-INF-0035,Demo Village 07,Demo District 02,Electricity,Power Supply,4,1801.88,5126,household connections,35.15,,11.03,,SYNTHETIC / DEMO DATA
+SYN-INF-0036,Demo Village 08,Demo District 02,Healthcare,Primary Health Centre,1,576.18,3543,people served,16.26,13.56,,,SYNTHETIC / DEMO DATA
+SYN-INF-0037,Demo Village 08,Demo District 02,Education,School,1,208.13,709,student seats,29.36,11.6,,,SYNTHETIC / DEMO DATA
+SYN-INF-0038,Demo Village 08,Demo District 02,Roads,Road Repair,1,1.3,4.43,road kilometres,29.34,,,29.34,SYNTHETIC / DEMO DATA
+SYN-INF-0039,Demo Village 08,Demo District 02,Water,Water Supply,1,149.76,788,household connections,19.01,,7.8,,SYNTHETIC / DEMO DATA
+SYN-INF-0040,Demo Village 08,Demo District 02,Electricity,Power Supply,1,313.12,788,household connections,39.74,,11.95,,SYNTHETIC / DEMO DATA
+SYN-INF-0041,Demo Village 09,Demo District 02,Healthcare,Primary Health Centre,1,2777.41,5753,people served,48.28,8.76,,,SYNTHETIC / DEMO DATA
+SYN-INF-0042,Demo Village 09,Demo District 02,Education,School,2,502.06,1151,student seats,43.62,9.46,,,SYNTHETIC / DEMO DATA
+SYN-INF-0043,Demo Village 09,Demo District 02,Roads,Road Repair,1,3.87,7.19,road kilometres,53.88,,,53.88,SYNTHETIC / DEMO DATA
+SYN-INF-0044,Demo Village 09,Demo District 02,Water,Water Supply,2,851.15,1279,household connections,66.55,,17.31,,SYNTHETIC / DEMO DATA
+SYN-INF-0045,Demo Village 09,Demo District 02,Electricity,Power Supply,2,707.16,1279,household connections,55.29,,15.06,,SYNTHETIC / DEMO DATA
+SYN-INF-0046,Demo Village 10,Demo District 02,Healthcare,Primary Health Centre,1,2279.53,5486,people served,41.55,9.77,,,SYNTHETIC / DEMO DATA
+SYN-INF-0047,Demo Village 10,Demo District 02,Education,School,1,296.11,1098,student seats,26.97,11.95,,,SYNTHETIC / DEMO DATA
+SYN-INF-0048,Demo Village 10,Demo District 02,Roads,Road Repair,1,2.65,6.86,road kilometres,38.56,,,38.56,SYNTHETIC / DEMO DATA
+SYN-INF-0049,Demo Village 10,Demo District 02,Water,Water Supply,1,467.19,1220,household connections,38.29,,11.66,,SYNTHETIC / DEMO DATA
+SYN-INF-0050,Demo Village 10,Demo District 02,Electricity,Power Supply,1,391.72,1220,household connections,32.11,,10.42,,SYNTHETIC / DEMO DATA
+SYN-INF-0051,Demo Village 11,Demo District 03,Healthcare,Primary Health Centre,2,9948.15,13894,people served,71.6,5.26,,,SYNTHETIC / DEMO DATA
+SYN-INF-0052,Demo Village 11,Demo District 03,Education,School,7,2465.4,2779,student seats,88.72,2.69,,,SYNTHETIC / DEMO DATA
+SYN-INF-0053,Demo Village 11,Demo District 03,Roads,Road Repair,3,11.28,17.37,road kilometres,64.94,,,64.94,SYNTHETIC / DEMO DATA
+SYN-INF-0054,Demo Village 11,Demo District 03,Water,Water Supply,4,1990.26,3088,household connections,64.45,,16.89,,SYNTHETIC / DEMO DATA
+SYN-INF-0055,Demo Village 11,Demo District 03,Electricity,Power Supply,6,2635.61,3088,household connections,85.35,,21.07,,SYNTHETIC / DEMO DATA
+SYN-INF-0056,Demo Village 12,Demo District 03,Healthcare,Primary Health Centre,1,4958.46,17574,people served,28.21,11.77,,,SYNTHETIC / DEMO DATA
+SYN-INF-0057,Demo Village 12,Demo District 03,Education,School,4,1452.24,3515,student seats,41.32,9.8,,,SYNTHETIC / DEMO DATA
+SYN-INF-0058,Demo Village 12,Demo District 03,Roads,Road Repair,2,7.7,21.97,road kilometres,35.04,,,35.04,SYNTHETIC / DEMO DATA
+SYN-INF-0059,Demo Village 12,Demo District 03,Water,Water Supply,3,1319.17,3906,household connections,33.77,,10.75,,SYNTHETIC / DEMO DATA
+SYN-INF-0060,Demo Village 12,Demo District 03,Electricity,Power Supply,3,1270.82,3906,household connections,32.54,,10.51,,SYNTHETIC / DEMO DATA
+SYN-INF-0061,Demo Village 13,Demo District 03,Healthcare,Primary Health Centre,1,3889.19,18959,people served,20.51,12.92,,,SYNTHETIC / DEMO DATA
+SYN-INF-0062,Demo Village 13,Demo District 03,Education,School,4,1335.18,3792,student seats,35.21,10.72,,,SYNTHETIC / DEMO DATA
+SYN-INF-0063,Demo Village 13,Demo District 03,Roads,Road Repair,1,4.46,23.7,road kilometres,18.81,,,18.81,SYNTHETIC / DEMO DATA
+SYN-INF-0064,Demo Village 13,Demo District 03,Water,Water Supply,2,857.93,4214,household connections,20.36,,8.07,,SYNTHETIC / DEMO DATA
+SYN-INF-0065,Demo Village 13,Demo District 03,Electricity,Power Supply,2,823.22,4214,household connections,19.54,,7.91,,SYNTHETIC / DEMO DATA
+SYN-INF-0066,Demo Village 14,Demo District 03,Healthcare,Primary Health Centre,3,10667.48,18847,people served,56.6,7.51,,,SYNTHETIC / DEMO DATA
+SYN-INF-0067,Demo Village 14,Demo District 03,Education,School,8,2949.6,3770,student seats,78.24,4.26,,,SYNTHETIC / DEMO DATA
+SYN-INF-0068,Demo Village 14,Demo District 03,Roads,Road Repair,4,15.16,23.56,road kilometres,64.35,,,64.35,SYNTHETIC / DEMO DATA
+SYN-INF-0069,Demo Village 14,Demo District 03,Water,Water Supply,7,3116.54,4189,household connections,74.4,,18.88,,SYNTHETIC / DEMO DATA
+SYN-INF-0070,Demo Village 14,Demo District 03,Electricity,Power Supply,5,2223.57,4189,household connections,53.08,,14.62,,SYNTHETIC / DEMO DATA
+SYN-INF-0071,Demo Village 15,Demo District 03,Healthcare,Primary Health Centre,3,10545.7,15879,people served,66.41,6.04,,,SYNTHETIC / DEMO DATA
+SYN-INF-0072,Demo Village 15,Demo District 03,Education,School,7,2673.34,3176,student seats,84.17,3.37,,,SYNTHETIC / DEMO DATA
+SYN-INF-0073,Demo Village 15,Demo District 03,Roads,Road Repair,4,17.2,19.85,road kilometres,86.63,,,86.63,SYNTHETIC / DEMO DATA
+SYN-INF-0074,Demo Village 15,Demo District 03,Water,Water Supply,5,2402.04,3529,household connections,68.07,,17.61,,SYNTHETIC / DEMO DATA
+SYN-INF-0075,Demo Village 15,Demo District 03,Electricity,Power Supply,6,2854.13,3529,household connections,80.88,,20.18,,SYNTHETIC / DEMO DATA
+SYN-INF-0076,Demo Village 16,Demo District 04,Healthcare,Primary Health Centre,1,3720.25,8012,people served,46.43,9.03,,,SYNTHETIC / DEMO DATA
+SYN-INF-0077,Demo Village 16,Demo District 04,Education,School,2,714.55,1603,student seats,44.58,9.31,,,SYNTHETIC / DEMO DATA
+SYN-INF-0078,Demo Village 16,Demo District 04,Roads,Road Repair,1,2.03,10.02,road kilometres,20.25,,,20.25,SYNTHETIC / DEMO DATA
+SYN-INF-0079,Demo Village 16,Demo District 04,Water,Water Supply,2,780.37,1781,household connections,43.82,,12.76,,SYNTHETIC / DEMO DATA
+SYN-INF-0080,Demo Village 16,Demo District 04,Electricity,Power Supply,2,828.64,1781,household connections,46.53,,13.31,,SYNTHETIC / DEMO DATA
+SYN-INF-0081,Demo Village 17,Demo District 04,Healthcare,Primary Health Centre,1,4621.46,7449,people served,62.04,6.69,,,SYNTHETIC / DEMO DATA
+SYN-INF-0082,Demo Village 17,Demo District 04,Education,School,2,611.51,1490,student seats,41.04,9.84,,,SYNTHETIC / DEMO DATA
+SYN-INF-0083,Demo Village 17,Demo District 04,Roads,Road Repair,1,4.45,9.31,road kilometres,47.81,,,47.81,SYNTHETIC / DEMO DATA
+SYN-INF-0084,Demo Village 17,Demo District 04,Water,Water Supply,2,987.9,1656,household connections,59.66,,15.93,,SYNTHETIC / DEMO DATA
+SYN-INF-0085,Demo Village 17,Demo District 04,Electricity,Power Supply,2,943.91,1656,household connections,57.0,,15.4,,SYNTHETIC / DEMO DATA
+SYN-INF-0086,Demo Village 18,Demo District 04,Healthcare,Primary Health Centre,4,16193.15,27669,people served,58.52,7.22,,,SYNTHETIC / DEMO DATA
+SYN-INF-0087,Demo Village 18,Demo District 04,Education,School,12,4590.0,5534,student seats,82.94,3.56,,,SYNTHETIC / DEMO DATA
+SYN-INF-0088,Demo Village 18,Demo District 04,Roads,Road Repair,5,24.26,34.59,road kilometres,70.15,,,70.15,SYNTHETIC / DEMO DATA
+SYN-INF-0089,Demo Village 18,Demo District 04,Water,Water Supply,7,3418.57,6149,household connections,55.6,,15.12,,SYNTHETIC / DEMO DATA
+SYN-INF-0090,Demo Village 18,Demo District 04,Electricity,Power Supply,9,4240.73,6149,household connections,68.97,,17.79,,SYNTHETIC / DEMO DATA
+SYN-INF-0091,Demo Village 19,Demo District 04,Healthcare,Primary Health Centre,1,4554.45,7158,people served,63.63,6.46,,,SYNTHETIC / DEMO DATA
+SYN-INF-0092,Demo Village 19,Demo District 04,Education,School,2,574.6,1432,student seats,40.13,9.98,,,SYNTHETIC / DEMO DATA
+SYN-INF-0093,Demo Village 19,Demo District 04,Roads,Road Repair,1,4.49,8.95,road kilometres,50.2,,,50.2,SYNTHETIC / DEMO DATA
+SYN-INF-0094,Demo Village 19,Demo District 04,Water,Water Supply,2,877.87,1591,household connections,55.18,,15.04,,SYNTHETIC / DEMO DATA
+SYN-INF-0095,Demo Village 19,Demo District 04,Electricity,Power Supply,2,624.94,1591,household connections,39.28,,11.86,,SYNTHETIC / DEMO DATA
+SYN-INF-0096,Demo Village 20,Demo District 04,Healthcare,Primary Health Centre,4,15830.62,23540,people served,67.25,5.91,,,SYNTHETIC / DEMO DATA
+SYN-INF-0097,Demo Village 20,Demo District 04,Education,School,8,2857.5,4708,student seats,60.69,6.9,,,SYNTHETIC / DEMO DATA
+SYN-INF-0098,Demo Village 20,Demo District 04,Roads,Road Repair,4,15.03,29.43,road kilometres,51.08,,,51.08,SYNTHETIC / DEMO DATA
+SYN-INF-0099,Demo Village 20,Demo District 04,Water,Water Supply,6,2522.27,5232,household connections,48.21,,13.64,,SYNTHETIC / DEMO DATA
+SYN-INF-0100,Demo Village 20,Demo District 04,Electricity,Power Supply,7,3231.53,5232,household connections,61.76,,16.35,,SYNTHETIC / DEMO DATA
+SYN-INF-0101,Demo Village 21,Demo District 05,Healthcare,Primary Health Centre,2,7695.76,17017,people served,45.22,9.22,,,SYNTHETIC / DEMO DATA
+SYN-INF-0102,Demo Village 21,Demo District 05,Education,School,5,1953.93,3404,student seats,57.4,7.39,,,SYNTHETIC / DEMO DATA
+SYN-INF-0103,Demo Village 21,Demo District 05,Roads,Road Repair,3,11.21,21.27,road kilometres,52.69,,,52.69,SYNTHETIC / DEMO DATA
+SYN-INF-0104,Demo Village 21,Demo District 05,Water,Water Supply,4,1874.1,3782,household connections,49.55,,13.91,,SYNTHETIC / DEMO DATA
+SYN-INF-0105,Demo Village 21,Demo District 05,Electricity,Power Supply,5,2094.1,3782,household connections,55.37,,15.07,,SYNTHETIC / DEMO DATA
+SYN-INF-0106,Demo Village 22,Demo District 05,Healthcare,Primary Health Centre,3,11156.99,11912,people served,93.66,1.95,,,SYNTHETIC / DEMO DATA
+SYN-INF-0107,Demo Village 22,Demo District 05,Education,School,6,2311.51,2383,student seats,97.0,1.45,,,SYNTHETIC / DEMO DATA
+SYN-INF-0108,Demo Village 22,Demo District 05,Roads,Road Repair,3,13.99,14.89,road kilometres,93.94,,,93.94,SYNTHETIC / DEMO DATA
+SYN-INF-0109,Demo Village 22,Demo District 05,Water,Water Supply,5,2067.33,2648,household connections,78.07,,19.61,,SYNTHETIC / DEMO DATA
+SYN-INF-0110,Demo Village 22,Demo District 05,Electricity,Power Supply,5,2045.67,2648,household connections,77.25,,19.45,,SYNTHETIC / DEMO DATA
+SYN-INF-0111,Demo Village 23,Demo District 05,Healthcare,Primary Health Centre,1,2849.38,10924,people served,26.08,12.09,,,SYNTHETIC / DEMO DATA
+SYN-INF-0112,Demo Village 23,Demo District 05,Education,School,3,904.25,2185,student seats,41.38,9.79,,,SYNTHETIC / DEMO DATA
+SYN-INF-0113,Demo Village 23,Demo District 05,Roads,Road Repair,1,3.18,13.65,road kilometres,23.33,,,23.33,SYNTHETIC / DEMO DATA
+SYN-INF-0114,Demo Village 23,Demo District 05,Water,Water Supply,1,420.56,2428,household connections,17.32,,7.46,,SYNTHETIC / DEMO DATA
+SYN-INF-0115,Demo Village 23,Demo District 05,Electricity,Power Supply,2,987.65,2428,household connections,40.68,,12.14,,SYNTHETIC / DEMO DATA
+SYN-INF-0116,Demo Village 24,Demo District 05,Healthcare,Primary Health Centre,2,7193.98,12929,people served,55.64,7.65,,,SYNTHETIC / DEMO DATA
+SYN-INF-0117,Demo Village 24,Demo District 05,Education,School,5,1663.68,2586,student seats,64.33,6.35,,,SYNTHETIC / DEMO DATA
+SYN-INF-0118,Demo Village 24,Demo District 05,Roads,Road Repair,2,7.77,16.16,road kilometres,48.07,,,48.07,SYNTHETIC / DEMO DATA
+SYN-INF-0119,Demo Village 24,Demo District 05,Water,Water Supply,5,2134.71,2874,household connections,74.28,,18.86,,SYNTHETIC / DEMO DATA
+SYN-INF-0120,Demo Village 24,Demo District 05,Electricity,Power Supply,4,1843.71,2874,household connections,64.15,,16.83,,SYNTHETIC / DEMO DATA
+SYN-INF-0121,Demo Village 25,Demo District 05,Healthcare,Primary Health Centre,2,7061.8,21087,people served,33.49,10.98,,,SYNTHETIC / DEMO DATA
+SYN-INF-0122,Demo Village 25,Demo District 05,Education,School,7,2540.36,4218,student seats,60.23,6.97,,,SYNTHETIC / DEMO DATA
+SYN-INF-0123,Demo Village 25,Demo District 05,Roads,Road Repair,2,8.81,26.36,road kilometres,33.43,,,33.43,SYNTHETIC / DEMO DATA
+SYN-INF-0124,Demo Village 25,Demo District 05,Water,Water Supply,5,2469.33,4686,household connections,52.7,,14.54,,SYNTHETIC / DEMO DATA
+SYN-INF-0125,Demo Village 25,Demo District 05,Electricity,Power Supply,5,2007.69,4686,household connections,42.84,,12.57,,SYNTHETIC / DEMO DATA
+SYN-INF-0126,Demo Village 26,Demo District 06,Healthcare,Primary Health Centre,3,12862.95,15316,people served,83.98,3.4,,,SYNTHETIC / DEMO DATA
+SYN-INF-0127,Demo Village 26,Demo District 06,Education,School,5,1871.67,3064,student seats,61.09,6.84,,,SYNTHETIC / DEMO DATA
+SYN-INF-0128,Demo Village 26,Demo District 06,Roads,Road Repair,3,11.78,19.14,road kilometres,61.52,,,61.52,SYNTHETIC / DEMO DATA
+SYN-INF-0129,Demo Village 26,Demo District 06,Water,Water Supply,5,2096.58,3404,household connections,61.59,,16.32,,SYNTHETIC / DEMO DATA
+SYN-INF-0130,Demo Village 26,Demo District 06,Electricity,Power Supply,6,2712.39,3404,household connections,79.68,,19.94,,SYNTHETIC / DEMO DATA
+SYN-INF-0131,Demo Village 27,Demo District 06,Healthcare,Primary Health Centre,4,16480.77,23951,people served,68.81,5.68,,,SYNTHETIC / DEMO DATA
+SYN-INF-0132,Demo Village 27,Demo District 06,Education,School,8,3068.59,4791,student seats,64.05,6.39,,,SYNTHETIC / DEMO DATA
+SYN-INF-0133,Demo Village 27,Demo District 06,Roads,Road Repair,6,25.92,29.94,road kilometres,86.56,,,86.56,SYNTHETIC / DEMO DATA
+SYN-INF-0134,Demo Village 27,Demo District 06,Water,Water Supply,10,4540.72,5323,household connections,85.3,,21.06,,SYNTHETIC / DEMO DATA
+SYN-INF-0135,Demo Village 27,Demo District 06,Electricity,Power Supply,8,3724.07,5323,household connections,69.96,,17.99,,SYNTHETIC / DEMO DATA
+SYN-INF-0136,Demo Village 28,Demo District 06,Healthcare,Primary Health Centre,2,5811.94,9457,people served,61.46,6.78,,,SYNTHETIC / DEMO DATA
+SYN-INF-0137,Demo Village 28,Demo District 06,Education,School,3,975.99,1892,student seats,51.59,8.26,,,SYNTHETIC / DEMO DATA
+SYN-INF-0138,Demo Village 28,Demo District 06,Roads,Road Repair,2,7.1,11.82,road kilometres,60.04,,,60.04,SYNTHETIC / DEMO DATA
+SYN-INF-0139,Demo Village 28,Demo District 06,Water,Water Supply,3,1469.05,2102,household connections,69.89,,17.98,,SYNTHETIC / DEMO DATA
+SYN-INF-0140,Demo Village 28,Demo District 06,Electricity,Power Supply,3,1249.37,2102,household connections,59.44,,15.89,,SYNTHETIC / DEMO DATA
+SYN-INF-0141,Demo Village 29,Demo District 06,Healthcare,Primary Health Centre,2,8463.47,10559,people served,80.15,3.98,,,SYNTHETIC / DEMO DATA
+SYN-INF-0142,Demo Village 29,Demo District 06,Education,School,5,1799.99,2112,student seats,85.23,3.22,,,SYNTHETIC / DEMO DATA
+SYN-INF-0143,Demo Village 29,Demo District 06,Roads,Road Repair,3,10.77,13.2,road kilometres,81.6,,,81.6,SYNTHETIC / DEMO DATA
+SYN-INF-0144,Demo Village 29,Demo District 06,Water,Water Supply,5,2054.39,2347,household connections,87.53,,21.51,,SYNTHETIC / DEMO DATA
+SYN-INF-0145,Demo Village 29,Demo District 06,Electricity,Power Supply,5,2100.28,2347,household connections,89.49,,21.9,,SYNTHETIC / DEMO DATA
+SYN-INF-0146,Demo Village 30,Demo District 06,Healthcare,Primary Health Centre,4,15939.51,25225,people served,63.19,6.52,,,SYNTHETIC / DEMO DATA
+SYN-INF-0147,Demo Village 30,Demo District 06,Education,School,9,3390.34,5045,student seats,67.2,5.92,,,SYNTHETIC / DEMO DATA
+SYN-INF-0148,Demo Village 30,Demo District 06,Roads,Road Repair,3,14.16,31.53,road kilometres,44.91,,,44.91,SYNTHETIC / DEMO DATA
+SYN-INF-0149,Demo Village 30,Demo District 06,Water,Water Supply,8,3781.82,5606,household connections,67.46,,17.49,,SYNTHETIC / DEMO DATA
+SYN-INF-0150,Demo Village 30,Demo District 06,Electricity,Power Supply,7,3234.03,5606,household connections,57.69,,15.54,,SYNTHETIC / DEMO DATA
+SYN-INF-0151,Demo Village 31,Demo District 07,Healthcare,Primary Health Centre,1,1934.56,6083,people served,31.8,11.23,,,SYNTHETIC / DEMO DATA
+SYN-INF-0152,Demo Village 31,Demo District 07,Education,School,2,421.04,1217,student seats,34.6,10.81,,,SYNTHETIC / DEMO DATA
+SYN-INF-0153,Demo Village 31,Demo District 07,Roads,Road Repair,1,2.0,7.6,road kilometres,26.34,,,26.34,SYNTHETIC / DEMO DATA
+SYN-INF-0154,Demo Village 31,Demo District 07,Water,Water Supply,2,685.94,1352,household connections,50.74,,14.15,,SYNTHETIC / DEMO DATA
+SYN-INF-0155,Demo Village 31,Demo District 07,Electricity,Power Supply,2,670.7,1352,household connections,49.61,,13.92,,SYNTHETIC / DEMO DATA
+SYN-INF-0156,Demo Village 32,Demo District 07,Healthcare,Primary Health Centre,2,8497.89,11861,people served,71.65,5.25,,,SYNTHETIC / DEMO DATA
+SYN-INF-0157,Demo Village 32,Demo District 07,Education,School,6,2043.2,2373,student seats,86.1,3.08,,,SYNTHETIC / DEMO DATA
+SYN-INF-0158,Demo Village 32,Demo District 07,Roads,Road Repair,3,10.71,14.83,road kilometres,72.2,,,72.2,SYNTHETIC / DEMO DATA
+SYN-INF-0159,Demo Village 32,Demo District 07,Water,Water Supply,5,2182.56,2636,household connections,82.8,,20.56,,SYNTHETIC / DEMO DATA
+SYN-INF-0160,Demo Village 32,Demo District 07,Electricity,Power Supply,5,2275.96,2636,household connections,86.34,,21.27,,SYNTHETIC / DEMO DATA
+SYN-INF-0161,Demo Village 33,Demo District 07,Healthcare,Primary Health Centre,2,5699.14,26115,people served,21.82,12.73,,,SYNTHETIC / DEMO DATA
+SYN-INF-0162,Demo Village 33,Demo District 07,Education,School,3,857.37,5223,student seats,16.42,13.54,,,SYNTHETIC / DEMO DATA
+SYN-INF-0163,Demo Village 33,Demo District 07,Roads,Road Repair,2,9.43,32.64,road kilometres,28.89,,,28.89,SYNTHETIC / DEMO DATA
+SYN-INF-0164,Demo Village 33,Demo District 07,Water,Water Supply,2,760.26,5804,household connections,13.1,,6.62,,SYNTHETIC / DEMO DATA
+SYN-INF-0165,Demo Village 33,Demo District 07,Electricity,Power Supply,1,464.32,5804,household connections,8.0,,5.6,,SYNTHETIC / DEMO DATA
+SYN-INF-0166,Demo Village 34,Demo District 07,Healthcare,Primary Health Centre,3,12526.55,17569,people served,71.3,5.31,,,SYNTHETIC / DEMO DATA
+SYN-INF-0167,Demo Village 34,Demo District 07,Education,School,7,2632.23,3514,student seats,74.91,4.76,,,SYNTHETIC / DEMO DATA
+SYN-INF-0168,Demo Village 34,Demo District 07,Roads,Road Repair,4,15.19,21.96,road kilometres,69.16,,,69.16,SYNTHETIC / DEMO DATA
+SYN-INF-0169,Demo Village 34,Demo District 07,Water,Water Supply,5,2423.59,3905,household connections,62.06,,16.41,,SYNTHETIC / DEMO DATA
+SYN-INF-0170,Demo Village 34,Demo District 07,Electricity,Power Supply,7,3296.46,3905,household connections,84.42,,20.88,,SYNTHETIC / DEMO DATA
+SYN-INF-0171,Demo Village 35,Demo District 07,Healthcare,Primary Health Centre,1,2226.26,5492,people served,40.54,9.92,,,SYNTHETIC / DEMO DATA
+SYN-INF-0172,Demo Village 35,Demo District 07,Education,School,1,333.54,1099,student seats,30.35,11.45,,,SYNTHETIC / DEMO DATA
+SYN-INF-0173,Demo Village 35,Demo District 07,Roads,Road Repair,1,3.02,6.87,road kilometres,43.94,,,43.94,SYNTHETIC / DEMO DATA
+SYN-INF-0174,Demo Village 35,Demo District 07,Water,Water Supply,1,249.25,1221,household connections,20.41,,8.08,,SYNTHETIC / DEMO DATA
+SYN-INF-0175,Demo Village 35,Demo District 07,Electricity,Power Supply,1,394.96,1221,household connections,32.35,,10.47,,SYNTHETIC / DEMO DATA
+SYN-INF-0176,Demo Village 36,Demo District 08,Healthcare,Primary Health Centre,3,10566.77,12397,people served,85.24,3.21,,,SYNTHETIC / DEMO DATA
+SYN-INF-0177,Demo Village 36,Demo District 08,Education,School,6,2033.61,2480,student seats,82.0,3.7,,,SYNTHETIC / DEMO DATA
+SYN-INF-0178,Demo Village 36,Demo District 08,Roads,Road Repair,3,12.91,15.5,road kilometres,83.29,,,83.29,SYNTHETIC / DEMO DATA
+SYN-INF-0179,Demo Village 36,Demo District 08,Water,Water Supply,5,2456.54,2755,household connections,89.17,,21.83,,SYNTHETIC / DEMO DATA
+SYN-INF-0180,Demo Village 36,Demo District 08,Electricity,Power Supply,5,2056.13,2755,household connections,74.63,,18.93,,SYNTHETIC / DEMO DATA
+SYN-INF-0181,Demo Village 37,Demo District 08,Healthcare,Primary Health Centre,4,16681.37,22894,people served,72.86,5.07,,,SYNTHETIC / DEMO DATA
+SYN-INF-0182,Demo Village 37,Demo District 08,Education,School,9,3274.98,4579,student seats,71.52,5.27,,,SYNTHETIC / DEMO DATA
+SYN-INF-0183,Demo Village 37,Demo District 08,Roads,Road Repair,4,18.71,28.62,road kilometres,65.36,,,65.36,SYNTHETIC / DEMO DATA
+SYN-INF-0184,Demo Village 37,Demo District 08,Water,Water Supply,9,4330.72,5088,household connections,85.12,,21.02,,SYNTHETIC / DEMO DATA
+SYN-INF-0185,Demo Village 37,Demo District 08,Electricity,Power Supply,7,3197.84,5088,household connections,62.85,,16.57,,SYNTHETIC / DEMO DATA
+SYN-INF-0186,Demo Village 38,Demo District 08,Healthcare,Primary Health Centre,1,1194.35,7007,people served,17.05,13.44,,,SYNTHETIC / DEMO DATA
+SYN-INF-0187,Demo Village 38,Demo District 08,Education,School,1,242.41,1402,student seats,17.29,13.41,,,SYNTHETIC / DEMO DATA
+SYN-INF-0188,Demo Village 38,Demo District 08,Roads,Road Repair,1,1.53,8.76,road kilometres,17.42,,,17.42,SYNTHETIC / DEMO DATA
+SYN-INF-0189,Demo Village 38,Demo District 08,Water,Water Supply,1,348.05,1558,household connections,22.34,,8.47,,SYNTHETIC / DEMO DATA
+SYN-INF-0190,Demo Village 38,Demo District 08,Electricity,Power Supply,1,475.49,1558,household connections,30.52,,10.1,,SYNTHETIC / DEMO DATA
+SYN-INF-0191,Demo Village 39,Demo District 08,Healthcare,Primary Health Centre,3,11522.6,14464,people served,79.66,4.05,,,SYNTHETIC / DEMO DATA
+SYN-INF-0192,Demo Village 39,Demo District 08,Education,School,8,2806.21,2893,student seats,97.0,1.45,,,SYNTHETIC / DEMO DATA
+SYN-INF-0193,Demo Village 39,Demo District 08,Roads,Road Repair,4,15.7,18.08,road kilometres,86.85,,,86.85,SYNTHETIC / DEMO DATA
+SYN-INF-0194,Demo Village 39,Demo District 08,Water,Water Supply,7,3044.66,3215,household connections,94.7,,22.94,,SYNTHETIC / DEMO DATA
+SYN-INF-0195,Demo Village 39,Demo District 08,Electricity,Power Supply,6,2744.08,3215,household connections,85.35,,21.07,,SYNTHETIC / DEMO DATA
+SYN-INF-0196,Demo Village 40,Demo District 08,Healthcare,Primary Health Centre,2,8165.46,17913,people served,45.58,9.16,,,SYNTHETIC / DEMO DATA
+SYN-INF-0197,Demo Village 40,Demo District 08,Education,School,3,1080.67,3583,student seats,30.16,11.48,,,SYNTHETIC / DEMO DATA
+SYN-INF-0198,Demo Village 40,Demo District 08,Roads,Road Repair,2,6.5,22.39,road kilometres,29.04,,,29.04,SYNTHETIC / DEMO DATA
+SYN-INF-0199,Demo Village 40,Demo District 08,Water,Water Supply,3,1035.8,3981,household connections,26.02,,9.2,,SYNTHETIC / DEMO DATA
+SYN-INF-0200,Demo Village 40,Demo District 08,Electricity,Power Supply,4,1677.65,3981,household connections,42.14,,12.43,,SYNTHETIC / DEMO DATA
+SYN-INF-0201,Demo Village 41,Demo District 09,Healthcare,Primary Health Centre,4,16250.1,23061,people served,70.47,5.43,,,SYNTHETIC / DEMO DATA
+SYN-INF-0202,Demo Village 41,Demo District 09,Education,School,9,3452.11,4613,student seats,74.83,4.77,,,SYNTHETIC / DEMO DATA
+SYN-INF-0203,Demo Village 41,Demo District 09,Roads,Road Repair,5,21.66,28.83,road kilometres,75.14,,,75.14,SYNTHETIC / DEMO DATA
+SYN-INF-0204,Demo Village 41,Demo District 09,Water,Water Supply,8,3759.78,5125,household connections,73.36,,18.67,,SYNTHETIC / DEMO DATA
+SYN-INF-0205,Demo Village 41,Demo District 09,Electricity,Power Supply,8,3980.12,5125,household connections,77.66,,19.53,,SYNTHETIC / DEMO DATA
+SYN-INF-0206,Demo Village 42,Demo District 09,Healthcare,Primary Health Centre,3,12266.69,17411,people served,70.45,5.43,,,SYNTHETIC / DEMO DATA
+SYN-INF-0207,Demo Village 42,Demo District 09,Education,School,6,2088.43,3483,student seats,59.96,7.01,,,SYNTHETIC / DEMO DATA
+SYN-INF-0208,Demo Village 42,Demo District 09,Roads,Road Repair,3,13.06,21.76,road kilometres,60.01,,,60.01,SYNTHETIC / DEMO DATA
+SYN-INF-0209,Demo Village 42,Demo District 09,Water,Water Supply,6,2668.16,3870,household connections,68.94,,17.79,,SYNTHETIC / DEMO DATA
+SYN-INF-0210,Demo Village 42,Demo District 09,Electricity,Power Supply,4,1589.32,3870,household connections,41.07,,12.21,,SYNTHETIC / DEMO DATA
+SYN-INF-0211,Demo Village 43,Demo District 09,Healthcare,Primary Health Centre,1,2271.05,6136,people served,37.01,10.45,,,SYNTHETIC / DEMO DATA
+SYN-INF-0212,Demo Village 43,Demo District 09,Education,School,1,199.75,1228,student seats,16.27,13.56,,,SYNTHETIC / DEMO DATA
+SYN-INF-0213,Demo Village 43,Demo District 09,Roads,Road Repair,1,2.05,7.67,road kilometres,26.76,,,26.76,SYNTHETIC / DEMO DATA
+SYN-INF-0214,Demo Village 43,Demo District 09,Water,Water Supply,1,410.97,1364,household connections,30.13,,10.03,,SYNTHETIC / DEMO DATA
+SYN-INF-0215,Demo Village 43,Demo District 09,Electricity,Power Supply,1,184.03,1364,household connections,13.49,,6.7,,SYNTHETIC / DEMO DATA
+SYN-INF-0216,Demo Village 44,Demo District 09,Healthcare,Primary Health Centre,2,9164.0,20962,people served,43.72,9.44,,,SYNTHETIC / DEMO DATA
+SYN-INF-0217,Demo Village 44,Demo District 09,Education,School,4,1479.98,4193,student seats,35.3,10.71,,,SYNTHETIC / DEMO DATA
+SYN-INF-0218,Demo Village 44,Demo District 09,Roads,Road Repair,2,6.73,26.2,road kilometres,25.68,,,25.68,SYNTHETIC / DEMO DATA
+SYN-INF-0219,Demo Village 44,Demo District 09,Water,Water Supply,4,1966.75,4659,household connections,42.21,,12.44,,SYNTHETIC / DEMO DATA
+SYN-INF-0220,Demo Village 44,Demo District 09,Electricity,Power Supply,5,2169.75,4659,household connections,46.57,,13.31,,SYNTHETIC / DEMO DATA
+SYN-INF-0221,Demo Village 45,Demo District 09,Healthcare,Primary Health Centre,4,16622.88,21674,people served,76.7,4.5,,,SYNTHETIC / DEMO DATA
+SYN-INF-0222,Demo Village 45,Demo District 09,Education,School,9,3281.57,4335,student seats,75.7,4.65,,,SYNTHETIC / DEMO DATA
+SYN-INF-0223,Demo Village 45,Demo District 09,Roads,Road Repair,4,16.74,27.09,road kilometres,61.79,,,61.79,SYNTHETIC / DEMO DATA
+SYN-INF-0224,Demo Village 45,Demo District 09,Water,Water Supply,6,2894.85,4817,household connections,60.1,,16.02,,SYNTHETIC / DEMO DATA
+SYN-INF-0225,Demo Village 45,Demo District 09,Electricity,Power Supply,8,3584.96,4817,household connections,74.42,,18.88,,SYNTHETIC / DEMO DATA
+SYN-INF-0226,Demo Village 46,Demo District 10,Healthcare,Primary Health Centre,3,11562.07,13868,people served,83.37,3.49,,,SYNTHETIC / DEMO DATA
+SYN-INF-0227,Demo Village 46,Demo District 10,Education,School,6,2334.79,2774,student seats,84.17,3.37,,,SYNTHETIC / DEMO DATA
+SYN-INF-0228,Demo Village 46,Demo District 10,Roads,Road Repair,3,12.18,17.34,road kilometres,70.26,,,70.26,SYNTHETIC / DEMO DATA
+SYN-INF-0229,Demo Village 46,Demo District 10,Water,Water Supply,5,2413.15,3082,household connections,78.3,,19.66,,SYNTHETIC / DEMO DATA
+SYN-INF-0230,Demo Village 46,Demo District 10,Electricity,Power Supply,5,2318.29,3082,household connections,75.22,,19.04,,SYNTHETIC / DEMO DATA
+SYN-INF-0231,Demo Village 47,Demo District 10,Healthcare,Primary Health Centre,2,5013.9,10794,people served,46.45,9.03,,,SYNTHETIC / DEMO DATA
+SYN-INF-0232,Demo Village 47,Demo District 10,Education,School,2,689.5,2159,student seats,31.94,11.21,,,SYNTHETIC / DEMO DATA
+SYN-INF-0233,Demo Village 47,Demo District 10,Roads,Road Repair,1,4.79,13.49,road kilometres,35.51,,,35.51,SYNTHETIC / DEMO DATA
+SYN-INF-0234,Demo Village 47,Demo District 10,Water,Water Supply,2,683.81,2399,household connections,28.5,,9.7,,SYNTHETIC / DEMO DATA
+SYN-INF-0235,Demo Village 47,Demo District 10,Electricity,Power Supply,2,675.62,2399,household connections,28.16,,9.63,,SYNTHETIC / DEMO DATA
+SYN-INF-0236,Demo Village 48,Demo District 10,Healthcare,Primary Health Centre,2,7076.66,13626,people served,51.94,8.21,,,SYNTHETIC / DEMO DATA
+SYN-INF-0237,Demo Village 48,Demo District 10,Education,School,3,921.76,2726,student seats,33.81,10.93,,,SYNTHETIC / DEMO DATA
+SYN-INF-0238,Demo Village 48,Demo District 10,Roads,Road Repair,2,9.19,17.03,road kilometres,53.97,,,53.97,SYNTHETIC / DEMO DATA
+SYN-INF-0239,Demo Village 48,Demo District 10,Water,Water Supply,3,1427.03,3028,household connections,47.13,,13.43,,SYNTHETIC / DEMO DATA
+SYN-INF-0240,Demo Village 48,Demo District 10,Electricity,Power Supply,3,1461.63,3028,household connections,48.27,,13.65,,SYNTHETIC / DEMO DATA
+SYN-INF-0241,Demo Village 49,Demo District 10,Healthcare,Primary Health Centre,2,7905.96,23164,people served,34.13,10.88,,,SYNTHETIC / DEMO DATA
+SYN-INF-0242,Demo Village 49,Demo District 10,Education,School,6,2119.37,4633,student seats,45.75,9.14,,,SYNTHETIC / DEMO DATA
+SYN-INF-0243,Demo Village 49,Demo District 10,Roads,Road Repair,4,15.5,28.95,road kilometres,53.53,,,53.53,SYNTHETIC / DEMO DATA
+SYN-INF-0244,Demo Village 49,Demo District 10,Water,Water Supply,6,2585.19,5148,household connections,50.22,,14.04,,SYNTHETIC / DEMO DATA
+SYN-INF-0245,Demo Village 49,Demo District 10,Electricity,Power Supply,7,3269.6,5148,household connections,63.51,,16.7,,SYNTHETIC / DEMO DATA
+SYN-INF-0246,Demo Village 50,Demo District 10,Healthcare,Primary Health Centre,1,3769.01,13528,people served,27.86,11.82,,,SYNTHETIC / DEMO DATA
+SYN-INF-0247,Demo Village 50,Demo District 10,Education,School,2,706.16,2706,student seats,26.1,12.09,,,SYNTHETIC / DEMO DATA
+SYN-INF-0248,Demo Village 50,Demo District 10,Roads,Road Repair,2,6.15,16.91,road kilometres,36.39,,,36.39,SYNTHETIC / DEMO DATA
+SYN-INF-0249,Demo Village 50,Demo District 10,Water,Water Supply,2,778.01,3007,household connections,25.87,,9.17,,SYNTHETIC / DEMO DATA
+SYN-INF-0250,Demo Village 50,Demo District 10,Electricity,Power Supply,3,1047.78,3007,household connections,34.84,,10.97,,SYNTHETIC / DEMO DATA

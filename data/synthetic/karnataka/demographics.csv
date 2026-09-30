@@ -1,0 +1,5 @@
+location_name,district,latitude,longitude,population,households,vulnerability_index,data_source
+Melukote,Mandya,12.659444,76.648333,22952,5101,0.233,SYNTHETIC / DEMO DATA
+Halebidu,Hassan,13.2157,75.9914,20390,4532,0.299,SYNTHETIC / DEMO DATA
+Hampi,Vijayanagara,15.334444,76.462222,13029,2896,0.227,SYNTHETIC / DEMO DATA
+Banavasi,Uttara Kannada,14.5341,75.0177,13850,3078,0.583,SYNTHETIC / DEMO DATA

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "investment_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "location_name",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "district",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "financial_year",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "investment_inr",
+    "type": "NUMERIC",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "estimated_need_inr",
+    "type": "NUMERIC",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "currency",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "data_source",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "recommendation_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "hotspot_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "recommended_intervention",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "reasoning",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "evidence",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "expected_impact",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "confidence",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "limitations",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "evidence_snapshot",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]

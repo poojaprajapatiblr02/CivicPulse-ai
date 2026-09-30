@@ -1,0 +1,162 @@
+[
+  {
+    "name": "hotspot_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "location_name",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "district",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "request_count",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "affected_population",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "average_urgency",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "demand_growth",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "latitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "longitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "demand_score",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "infrastructure_gap_score",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "population_impact_score",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "vulnerability_score",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "urgency_score",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "investment_gap_score",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "priority_score",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "available_capacity",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "required_capacity",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "capacity_gap",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "capacity_unit",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "vulnerability_index",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "investment_inr",
+    "type": "NUMERIC",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "estimated_need_inr",
+    "type": "NUMERIC",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "investment_gap_inr",
+    "type": "NUMERIC",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "financial_year",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "data_issues",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "max_request_count",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "max_population",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "scoring_status",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "scoring_version",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]

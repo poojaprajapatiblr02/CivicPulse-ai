@@ -1,0 +1,72 @@
+[
+  {
+    "name": "infrastructure_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "location_name",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "district",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "asset_type",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "asset_count",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "available_capacity",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "required_capacity",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "capacity_unit",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "coverage_percent",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "average_distance_km",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "service_hours_per_day",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "road_condition_score",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "data_source",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "hotspot_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "location_name",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "district",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "request_count",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "affected_population",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "average_urgency",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "demand_growth",
+    "type": "FLOAT64",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "latitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "longitude",
+    "type": "FLOAT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  }
+]
