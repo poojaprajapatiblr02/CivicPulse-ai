@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicPulse AI
 
 Multilingual citizen development intelligence POC for the BRICS Innovation Hackathon.
@@ -622,3 +623,6 @@ request logging, dashboard placeholders, unit tests, and frontend build checks.
 No automated CI/CD or deployment has been configured; Cloud Build and Cloud Run
 remain later phases. See [Phase 1 notes](docs/phase-1.md). Do not expose this
 unauthenticated local skeleton publicly.
+=======
+# CivicPulse-ai
+>>>>>>> 6bcee89358bd973e202e11e62c74478b81ff759f
